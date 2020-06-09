@@ -23,7 +23,7 @@ public class Task10 {
         prevNumber = number;
     }
 
-    public static void inputNumbers() {
+    private static void inputNumbers() {
 
         int number;
         Scanner sc = new Scanner(System.in);
